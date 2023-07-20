@@ -7,7 +7,7 @@ Autores: Piero Vaccaro - Diego Pérez - Cristobal Arevalo
 ## Repositorio de los integrantes
 * https://github.com/diegoperezm/M5SprintFinal.git
 * https://github.com/carevalo07/M5SprintFinal.git
-*
+* https://github.com/PieroVaccaro/M5SprintFinal.git
   
 ## Como ejecutar programa?
 * Descargar todos los archivos de este repositorio
